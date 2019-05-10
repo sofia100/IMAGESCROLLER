@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "699360832784",
+    "firebase_url": "https://imagescroller-fa1b4.firebaseio.com",
+    "project_id": "imagescroller-fa1b4",
+    "storage_bucket": "imagescroller-fa1b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699360832784:android:ca911a2902a46ea9",
+        "android_client_info": {
+          "package_name": "com.example.android.imagescroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699360832784-kv40lqn70lhe3tst6va92edqpjf49fda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.imagescroller",
+            "certificate_hash": "4923ffaed5c54726b57f5c7482d7e2056faf0ea3"
+          }
+        },
+        {
+          "client_id": "699360832784-0vcdjr77ogaq88ktmhcv2qg11hrqdia2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmD13iMcr30T3-zlMf6k1WJgdQKzAa3Dk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699360832784-0vcdjr77ogaq88ktmhcv2qg11hrqdia2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
